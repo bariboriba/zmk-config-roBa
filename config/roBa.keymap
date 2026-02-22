@@ -8,7 +8,7 @@
     quick-tap-ms = <0>;
 };
 
-&sl { release-after-ms = <500>; };
+&sl { release-after-ms = <300>; };
 
 &trackball {
     automouse-layer = <4>;
